@@ -6,4 +6,4 @@ Deep links are a tool to open you app on specific points using custom links.
 
 You will need to edit the manifest on dependencies.
 
-More info: 
+More info: https://developer.android.com/training/app-links/deep-linking.html
